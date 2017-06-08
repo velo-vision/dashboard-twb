@@ -1880,3 +1880,19 @@ cursor:pointer;
     text-align: center;
   }
 }
+
+/*Est Vel*/
+
+@media only screen and (min-width: 200px) and (max-width: 600px){
+.izquierda{
+  float: right;
+  margin: 0 4px;
+}
+
+.dropdown-menu {
+  min-width: 187px;   
+}
+.sin-pading{
+  padding:0px !important;
+}
+}
