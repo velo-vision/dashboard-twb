@@ -14,7 +14,7 @@
       </div>
       <!---->
       <div class="col-md-12 col-xs-12 top-50">
-        <div class="col-md-3">
+        <div class="col-md-3 margin-cat">
           <div class="dropdown boton-categoria2">
             <button class="btn btn-secondary dropdown-toggle btn btn-default btn-sm boton-licitacion" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               <i class="fa fa-tag" aria-hidden="true"></i> Categorias <i class="fa fa-caret-down" aria-hidden="true"></i>
@@ -26,7 +26,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 margin-cat">
           <div class="dropdown boton-categoria2">
             <button class="btn btn-secondary dropdown-toggle btn btn-default btn-sm boton-licitacion" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               <i class="fa fa-calendar" aria-hidden="true"></i> Ordena por fecha <i class="fa fa-caret-down" aria-hidden="true"></i>
@@ -37,7 +37,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 margin-cat">
           <div class="dropdown boton-categoria2">
             <button class="btn btn-secondary dropdown-toggle btn btn-default btn-sm boton-licitacion" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               <i class="fa fa-sitemap" aria-hidden="true"></i> Estatus <i class="fa fa-caret-down" aria-hidden="true"></i>
@@ -49,9 +49,9 @@
             </div>
           </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 margin-cat">
           <a data-toggle="modal" data-target="#enviarInvitacion" data-whatever="@mdo">
-            <p class="editar">
+            <p class="editar editar1">
               <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Cancelar Licitación
             </p>
           </a>
@@ -71,8 +71,8 @@
             </label>
           </div>
         </div>
-        <div class="col-md-2 col-xs-3 nomargin">
-          <input class="form-control no-border" type="text" value="Licitación 01" id="example-text-input">
+        <div class="col-md-2 col-xs-4 nomargin">
+          <input class="form-control no-border centrar1" type="text" value="Licitación 01" id="example-text-input">
         </div>
         <div class="col-md-2 col-xs-3 nomargin centrar1">
           <p class="top-5"><strong>Categoría:</strong> Lorem Ipsum</p>
@@ -83,7 +83,7 @@
         <div class="col-md-2 col-xs-6 nomargin centrar1">
           <p class="top-5"><strong>Fecha:</strong> Hace 1 minuto</p>
         </div>
-        <div class="col-md-1 col-xs-6 nomargin">
+        <div class="col-md-1 col-xs-6 nomargin centrar1">
           <p class="top-5"><strong>Respuestas:</strong> 0</p>
         </div>
         <div class="col-md-2 col-xs-12">

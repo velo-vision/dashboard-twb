@@ -8,7 +8,7 @@
       <div class="container-fluid">
         <div class="col-md-12 col-xs-12">
           <div class="content-wrapper">
-            <div class="col-xs-12 col-md-12 col-md-12 col-lg-12 titulo-perfil">
+            <div class="col-md-10 col-xs-12 titulo-perfil">
               <p id="subir">
                 Licitaciones
               </p>
@@ -17,7 +17,7 @@
             <!-- Content Header (Page header) -->
             <!-- Main content -->
             <section class="content">
-              <div class="col-xs-12 col-md-12 col-md-12 col-lg-12 top-20">
+              <div class="col-md-10 col-xs-12 top-20">
                 <div class="col-md-4 col-xs-2">
                   <img src="images/dashboard/anterior.png" alt="The Wedding Board">
                 </div>
@@ -33,27 +33,26 @@
                 </div>
               </div>
               <div class="row">
-                <div class="col-xs-12 col-md-12 col-md-12 col-lg-12">
-                  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 box box-primary top-20">
-                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 box-header centrar">
+                <div class="col-md-10 col-xs-12">
+                  <div class="box box1 box-primary top-20">
+                    <div class="box-header">
                       <p class="asunto-licitacion"><strong>Licitación:</strong> Lorem ipsum </p>
-                      <p class="nomargin"><strong>Presupuesto:</strong>$50,000</p>
-                      <p class="nomargin"><strong>Categoría:</strong> Lorem ipsum </p>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 box-tools centrar pull-right">
-                      <p class="asunto-licitacion left-usuario"><strong>Usuario:</strong> Mónica Galindo</p>
-                      <p class="nomargin left-usuario"><strong>Lugar:</strong> Lorem ipsum dolor sit amet</p>
-                      <p class="nomargin left-usuario"><strong>Fecha del evento:</strong> 28 Octubre 2017</p>
-                    </div>
-
-                    <!-- /.box-header -->
-                    <div class="col-xs-12 col-md-12 col-md-12 col-lg-12box-body no-padding">
-                      <div class="mailbox-read-info"></div>
+                      <p class="nomargin asunto-licitacion1"><strong>Presupuesto:</strong>$50,000</p>
+                      <p class="nomargin asunto-licitacion1"><strong>Categoría:</strong> Lorem ipsum </p>
+                      <div class="box-tools pull-right move-usuario move">
+                      <p class="asunto-licitacion" style="margin-top:5px;"><strong>Usuario:</strong> Mónica Galindo</p>
+                      <p class="nomargin asunto-licitacion1"><strong>Lugar:</strong> Lorem ipsum dolor sit amet</p>
+                      <p class="nomargin asunto-licitacion1"><strong>Fecha del evento:</strong> 28 Octubre 2017</p>
+                      </div>
                     </div>
                   </div>
+                    <!-- /.box-header -->
+                    <div class="box-body no-padding">
+                      <div class="mailbox-read-info"></div>
+                    </div>
 
                       <!-- /.mailbox-controls -->
-                      <div class="mailbox-read-message col-xs-12">
+                      <div class="mailbox-read-message">
                         <p>
                           Lorem ipsum dolor sit amet, omnesque tacimates hendrerit an sit. Ne has integre vivendum.
                           Eos iisque tractatos id. Per prompta moderatius philosophia ea.
@@ -65,7 +64,7 @@
                         </p>
                       </div>
                       <!-- /.mailbox-read-message -->
-                    </div>
+
                     <!-- /.box-body -->
                     <div class="box-footer" style="border-top:none;">
                       <ul class="mailbox-attachments clearfix">
@@ -138,35 +137,35 @@
                 </div>
 
                 <!--RESPUESTAS--->
-
-                <div class="row top-100">
-                  <div class="col-md-10 col-xs-12  top-20">
-                    <div class="col-md-4">
-                      <img src="images/dashboard/anterior.png" alt="The Wedding Board">
-                    </div>
-                    <div class="col-md-4 centers">
-                      <a href="licitaciones-2.php">
-                        <p class="editar">
-                          <img src="images/dashboard/volver.png" alt="The Wedding Board"> Volver a licitaciones
-                        </p>
-                      </a>
-                    </div>
-                    <div class="col-md-4" style="text-align:right;">
-                      <img src="images/dashboard/siguiente.png" alt="The Wedding Board">
-                    </div>
+                <div class="col-md-10 col-xs-12 top-20" style="margin-top:100px !important;">
+                  <div class="col-md-4 col-xs-2">
+                    <img src="images/dashboard/anterior.png" alt="The Wedding Board">
                   </div>
+                  <div class="col-md-4 col-xs-8 centers">
+                    <a href="licitaciones-2.php">
+                      <p class="editar">
+                        <img src="images/dashboard/volver.png" alt="The Wedding Board"> Volver a licitaciones
+                      </p>
+                    </a>
+                  </div>
+                  <div class="col-md-4 col-xs-2" style="text-align:right;">
+                    <img src="images/dashboard/siguiente.png" alt="The Wedding Board">
+                  </div>
+                </div>
+                <div class="row">
                   <div class="col-md-10 col-xs-12">
-                    <div class="box box-primary top-20">
+                    <div class="box box1 box-primary top-20">
                       <div class="box-header">
                         <p class="asunto-licitacion"><strong>Licitación:</strong> Lorem ipsum </p>
-                        <p class="nomargin"><strong>Presupuesto:</strong>$50,000</p>
-                        <p class="nomargin"><strong>Categoría:</strong> Lorem ipsum </p>
-                        <div class="box-tools pull-right">
-                        <p class="asunto-licitacion"><strong>Usuario:</strong> Mónica Galindo</p>
-                        <p class="nomargin"><strong>Lugar:</strong> Lorem ipsum dolor sit amet</p>
-                        <p class="nomargin"><strong>Fecha del evento:</strong> 28 Octubre 2017</p>
+                        <p class="nomargin asunto-licitacion1"><strong>Presupuesto:</strong>$50,000</p>
+                        <p class="nomargin asunto-licitacion1"><strong>Categoría:</strong> Lorem ipsum </p>
+                        <div class="box-tools pull-right move-usuario move">
+                        <p class="asunto-licitacion" style="margin-top:5px;"><strong>Usuario:</strong> Mónica Galindo</p>
+                        <p class="nomargin asunto-licitacion1"><strong>Lugar:</strong> Lorem ipsum dolor sit amet</p>
+                        <p class="nomargin asunto-licitacion1"><strong>Fecha del evento:</strong> 28 Octubre 2017</p>
                         </div>
                       </div>
+                    </div>
                       <!-- /.box-header -->
                       <div class="box-body no-padding">
                         <div class="mailbox-read-info"></div>
@@ -185,7 +184,7 @@
                           </p>
                         </div>
                         <!-- /.mailbox-read-message -->
-                      </div>
+
                       <!-- /.box-body -->
                       <div class="box-footer" style="border-top:none;">
                         <ul class="mailbox-attachments clearfix">
@@ -256,28 +255,33 @@
                         </p>
                       </div>
                     </div>
+                    <!-- /. box -->
+                  </div>
+                <!-- fin -->
 
+                <div class="row">
                     <!--RESPUESTA 2-->
                     <div class="col-md-10 col-xs-12">
                       <div class="box box-primary" style="border-top:none">
 
                         <div class="box-body no-padding">
-                          <div class="mailbox-read-info" style="padding:5px;"></div>
+                          <div class="col-xs-12 col-sm-12 col-md-12 mailbox-read-info" style="padding:5px;"></div>
                         </div>
                         <div class="box-header top-50">
-                          <p class="asunto-licitacion"><strong>Proveedor:</strong> Lorem ipsum </p>
+                          <p class="asunto-licitacion asunto-center"><strong>Proveedor:</strong> Lorem ipsum </p>
                           <div class="box-tools pull-right">
-                          <a href="#!"><span class="boton-comprar"><img src="images/recursos/proveedor.png" alt="The Wedding Board"> Perfil proveedor</span></a>
+                          <a href="#!"><span class="col-xs-12 boton-comprar comprar1"><img src="images/recursos/proveedor.png" alt="The Wedding Board"> Perfil proveedor</span></a>
                           </div>
                         </div>
-                        <div class="box-header top-20">
-                          <p class="nomargin"><strong>Costo:</strong>$45,000</p>
-                          <p class="nomargin"><strong>Descripción:</strong></p>
-                          <div class="box-tools pull-right">
-                          <p class="nomargin"><strong>Vigencia:</strong>19 de mayo 2017</p>
+                        <div class="box1 top-20">
+                          <div class="box-header">
+                            <p class="nomargin asunto-licitacion1"><strong>Costos:</strong>$45,000</p>
+                            <p class="nomargin asunto-licitacion1"><strong>Descripción:</strong></p>
+                            <div class="box-tools pull-right move-usuario move">
+                            <p class="nomargin asunto-licitacion1"><strong>Vigencia:</strong> 19 de mayo 2017</p>
+                            </div>
                           </div>
                         </div>
-
                           <!-- /.mailbox-controls -->
                           <div class="mailbox-read-message">
                             <p>
@@ -363,19 +367,21 @@
                       <div class="box box-primary" style="border-top:none">
 
                         <div class="box-body no-padding">
-                          <div class="mailbox-read-info" style="padding:5px;"></div>
+                          <div class="col-xs-12 col-sm-12 col-md-12 mailbox-read-info" style="padding:5px;"></div>
                         </div>
                         <div class="box-header top-50">
-                          <p class="asunto-licitacion"><strong>Proveedor:</strong> Lorem ipsum </p>
+                          <p class="asunto-licitacion asunto-center"><strong>Proveedor:</strong> Lorem ipsum </p>
                           <div class="box-tools pull-right">
-                          <a href="#!"><span class="boton-comprar"><img src="images/recursos/proveedor.png" alt="The Wedding Board"> Perfil proveedor</span></a>
+                          <a href="#!"><span class="col-xs-12 boton-comprar comprar1"><img src="images/recursos/proveedor.png" alt="The Wedding Board"> Perfil proveedor</span></a>
                           </div>
                         </div>
-                        <div class="box-header top-20">
-                          <p class="nomargin"><strong>Costo:</strong>$40,000</p>
-                          <p class="nomargin"><strong>Descripción:</strong></p>
-                          <div class="box-tools pull-right">
-                          <p class="nomargin"><strong>Vigencia:</strong>19 de mayo 2017</p>
+                        <div class="box1 top-20">
+                          <div class="box-header">
+                            <p class="nomargin asunto-licitacion1"><strong>Costos:</strong>$40,000</p>
+                            <p class="nomargin asunto-licitacion1"><strong>Descripción:</strong></p>
+                            <div class="box-tools pull-right move-usuario move">
+                            <p class="nomargin asunto-licitacion1"><strong>Vigencia:</strong> 19 de mayo 2017</p>
+                            </div>
                           </div>
                         </div>
 
@@ -416,16 +422,18 @@
                           <div class="mailbox-read-info" style="padding:5px;"></div>
                         </div>
                         <div class="box-header top-50">
-                          <p class="asunto-licitacion"><strong>Proveedor:</strong> Lorem ipsum </p>
+                          <p class="asunto-licitacion asunto-center"><strong>Proveedor:</strong> Lorem ipsum </p>
                           <div class="box-tools pull-right">
-                          <a href="#!"><span class="boton-comprar"><img src="images/recursos/proveedor.png" alt="The Wedding Board"> Perfil proveedor</span></a>
+                          <a href="#!"><span class="col-xs-12 boton-comprar comprar1"><img src="images/recursos/proveedor.png" alt="The Wedding Board"> Perfil proveedor</span></a>
                           </div>
                         </div>
-                        <div class="box-header top-20">
-                          <p class="nomargin"><strong>Costo:</strong>$40,000</p>
-                          <p class="nomargin"><strong>Descripción:</strong></p>
-                          <div class="box-tools pull-right">
-                          <p class="nomargin"><strong>Vigencia:</strong>19 de mayo 2017</p>
+                        <div class="box1 top-20">
+                          <div class="box-header">
+                            <p class="nomargin asunto-licitacion1"><strong>Costos:</strong>$40,000</p>
+                            <p class="nomargin asunto-licitacion1"><strong>Descripción:</strong></p>
+                            <div class="box-tools pull-right move-usuario move">
+                            <p class="nomargin asunto-licitacion1"><strong>Vigencia:</strong> 19 de mayo 2017</p>
+                            </div>
                           </div>
                         </div>
 
@@ -489,11 +497,11 @@
                         <div class="box-body no-padding">
                           <div class="mailbox-read-info" style="padding:5px;"></div>
                         </div>
-                        <div class="box-header top-50">
+                        <div class="box-header top-50 box-center">
                           <a href="licitaciones-2.php">
                             <button type="submit" class="btn btn-default icon-menssage"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Ir a licitaciones</button>
                           </a>
-                          <div class="box-tools pull-right">
+                          <div class="box-tools pull-right margin-btn1">
                           <a href="#subir">
                             <button type="submit" class="btn btn-default icon-menssage"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i> Subir a licitación</button>
                           </a>
