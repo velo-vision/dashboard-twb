@@ -128,8 +128,8 @@
               <!-- tools box -->
               <div class="pull-right box-tools">
                 <!-- button with a dropdown -->
-                <div class="btn-group">
-                  <button type="button" class="btn btn-success btn-sm dropdown-toggle" data-toggle="dropdown">
+                <div class="btn-group izquierda">
+                  <button type="button" class="btn btn-success btn-sm dropdown-toggle " data-toggle="dropdown">
                     <i class="fa fa-bars"></i></button>
                   <ul class="dropdown-menu pull-right" role="menu">
                     <li><a href="#!">Añadir nuevo evento</a></li>
@@ -137,7 +137,7 @@
                     <!-- <li><a href="#!">View calendar</a></li> -->
                   </ul>
                 </div>
-                <button type="button" class="btn btn-success btn-sm" data-widget="collapse"><i class="fa fa-plus"></i>
+                <button type="button" class="btn btn-success btn-sm izquierda" data-widget="collapse"><i class="fa fa-plus"></i>
                 </button>
               </div>
               <!-- /. tools -->

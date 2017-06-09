@@ -54,7 +54,7 @@
           </p>
           <img src="images/recursos/linea-greca.png" alt="The Wedding Board">
         </div>
-        <div class="col-md-12 col-xs-12 top-50">
+        <div class="col-md-12 col-xs-12 top-50 sin-pading">
           <div class="col-md-12 col-md-offset-0 col-xs-12 informacion-boda">
             <div class="col-md-2 col-xs-12 borde-derecho">
               <p class="nomargin res-10">
