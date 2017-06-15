@@ -37,10 +37,9 @@
 						<img src="images/recursos/galery.jpg" alt="11"/>
 						<a href="images/recursos/galery.jpg" class="more-details" data-title="Great View">Enlarge</a>
 						<figcaption>
-              <h4><span>Lorem</span> Ipsum</h4>							
+              				<h4><span>Lorem</span> Ipsum</h4>							
 						</figcaption>
-					</figure>
-          <p>Lorem Ipsum</p>
+					</figure>         
 				</li>
 				<li class="item col-xs-6 col-md-6 pool">
 					<figure>
