@@ -24,7 +24,7 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-6">
-            <div class="form-group col-md-8 col-md-offset-2">
+            <div class="form-group col-md-8 col-sm-offset-2 col-sm-8 col-md-offset-2">
              <select class="form-control directorio-proveedor">
                <option value="proveedorsito1" selected>Proveedor 1</option>
                <option value="proveedorsito2">Proveedor 2</option>
@@ -34,7 +34,7 @@
            </div>
           </div>
           <div class="col-md-6">
-            <div class="form-group col-md-8 col-md-offset-2">
+            <div class="form-group col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2">
              <select class="form-control directorio-proveedor2">
                <option value="perfilito1">Proveedor 1</option>
                <option value="perfilito2" selected >Proveedor 2</option>
@@ -171,7 +171,7 @@
                 Lorem ipsum dolor sit amet, omnesque tacimates hendrerit an sit. Ne has integre vivendum.
                 Eos iisque tractatos id.
                 Per prompta moderatius philosophia ea.
-              </p>              
+              </p>
               <div class="centers top-20">
                 <button type="submit" class="btn btn-default icon-menssage"><i class="fa fa-check-square-o" aria-hidden="true"></i> Aceptar</button>
               </div>

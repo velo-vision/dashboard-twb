@@ -8,7 +8,7 @@
       <div class="container-fluid">
         <div class="col-md-12 col-xs-12">
           <div class="content-wrapper">
-            <div class="col-md-10 col-xs-12 titulo-perfil">
+            <div class="col-xs-12 col-md-12 col-md-12 col-lg-12 titulo-perfil">
               <p id="subir">
                 Licitaciones
               </p>
@@ -17,7 +17,7 @@
             <!-- Content Header (Page header) -->
             <!-- Main content -->
             <section class="content">
-              <div class="col-md-10 col-xs-12 top-20">
+              <div class="col-xs-12 col-md-12 col-md-12 col-lg-12 top-20">
                 <div class="col-md-4 col-xs-2">
                   <img src="images/dashboard/anterior.png" alt="The Wedding Board">
                 </div>
@@ -33,26 +33,27 @@
                 </div>
               </div>
               <div class="row">
-                <div class="col-md-10 col-xs-12">
-                  <div class="box box1 box-primary top-20">
-                    <div class="box-header">
+                <div class="col-xs-12 col-md-12 col-md-12 col-lg-12">
+                  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 box box-primary top-20">
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 box-header centrar">
                       <p class="asunto-licitacion"><strong>Licitación:</strong> Lorem ipsum </p>
-                      <p class="nomargin asunto-licitacion1"><strong>Presupuesto:</strong>$50,000</p>
-                      <p class="nomargin asunto-licitacion1"><strong>Categoría:</strong> Lorem ipsum </p>
-                      <div class="box-tools pull-right move-usuario move">
-                      <p class="asunto-licitacion"><strong>Usuario:</strong> Mónica Galindo</p>
-                      <p class="nomargin asunto-licitacion1"><strong>Lugar:</strong> Lorem ipsum dolor sit amet</p>
-                      <p class="nomargin asunto-licitacion1"><strong>Fecha del evento:</strong> 28 Octubre 2017</p>
-                      </div>
+                      <p class="nomargin"><strong>Presupuesto:</strong>$50,000</p>
+                      <p class="nomargin"><strong>Categoría:</strong> Lorem ipsum </p>
                     </div>
-                  </div>
-                    <!-- /.box-header -->
-                    <div class="box-body no-padding">
-                      <div class="mailbox-read-info"></div>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 box-tools centrar pull-right">
+                      <p class="asunto-licitacion left-usuario"><strong>Usuario:</strong> Mónica Galindo</p>
+                      <p class="nomargin left-usuario"><strong>Lugar:</strong> Lorem ipsum dolor sit amet</p>
+                      <p class="nomargin left-usuario"><strong>Fecha del evento:</strong> 28 Octubre 2017</p>
                     </div>
 
+                    <!-- /.box-header -->
+                    <div class="col-xs-12 col-md-12 col-md-12 col-lg-12box-body no-padding">
+                      <div class="mailbox-read-info"></div>
+                    </div>
+                  </div>
+
                       <!-- /.mailbox-controls -->
-                      <div class="mailbox-read-message">
+                      <div class="mailbox-read-message col-xs-12">
                         <p>
                           Lorem ipsum dolor sit amet, omnesque tacimates hendrerit an sit. Ne has integre vivendum.
                           Eos iisque tractatos id. Per prompta moderatius philosophia ea.
@@ -64,7 +65,7 @@
                         </p>
                       </div>
                       <!-- /.mailbox-read-message -->
-
+                    </div>
                     <!-- /.box-body -->
                     <div class="box-footer" style="border-top:none;">
                       <ul class="mailbox-attachments clearfix">

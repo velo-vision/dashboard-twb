@@ -181,7 +181,7 @@
         <li class="treeview">
           <a href="mensajes-1.php">
             <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
-            <span>Mensajes</span> <span class="number-mensagges">3</span>
+            <span>Mensajes<span class="number-mensagges mover-bg">3</span></span>
           </a>
         </li>
         <li class="treeview">
