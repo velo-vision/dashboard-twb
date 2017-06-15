@@ -1798,6 +1798,29 @@ cursor:pointer;
     width: 80% !important;
     margin-left: 10% !important;
   }
+  /*Est*/
+  .boton-invitados2 {
+    width: 100% !important;
+    margin-left: 0% !important;
+  }
+  .sinmargin-top{
+    margin-top: 0px !important;
+  }
+  .centrado{
+    text-align: center;
+  }
+  .añadir-invitados2 {
+    margin: auto 4%;
+  }
+  .padding4{
+    padding: 0 4%;
+  }
+  .detalledevice{
+    width: 100% !important;
+    margin-left: 0px !important;
+
+  }
+  /*Fin*/
   .box-header > .fa, .box-header > .glyphicon, .box-header > .ion, .box-header .box-title {
     font-size: .85em;
   }
