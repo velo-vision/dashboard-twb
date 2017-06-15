@@ -997,7 +997,6 @@ figure.snip1084.hover:after {
 .btn-primary{
   border-color: #67cfe3;
   background: #67cfe3;
-  width: 100% !important;
 }
 .btn-primary:hover {
   border-color: #67cfe3;
@@ -1606,6 +1605,16 @@ cursor:pointer;
   /****************VELOSOFT FRONT-2************************/
 }
 @media only screen and (min-width:768px) and (max-width:992px){
+  .margin-int{
+    margin-left: -10px;
+  }
+  .margin-no{
+    margin: 0px;
+    padding: 0px;
+  }
+  .inv-centrar{
+    text-align: center;
+  }
   .check-left{
     margin-left: 34px;
   }
@@ -1698,6 +1707,13 @@ cursor:pointer;
   /****************VELOSOFT FRONT-2************************/
 }
 @media only screen and (min-width:200px) and (max-width:768px){
+  .margin-no{
+    margin: 0px;
+    padding: 0px;
+  }
+  .inv-centrar{
+    text-align: center;
+  }
   .centrar1{
    text-align: center;
   }
