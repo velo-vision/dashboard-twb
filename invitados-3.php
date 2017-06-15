@@ -36,7 +36,7 @@
       </div>
       <!---->
       <div class="col-md-12 col-xs-12 invitado">
-        <div class="col-md-2 col-xs-3 ">
+        <div class="col-md-2 col-xs-3">
           <p class="elipsi">
             Mónica Galindo
           </p>
@@ -57,21 +57,21 @@
           </p>
         </div>
         <div class="col-md-4 col-xs-12">
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="detalle-invitacion.php">
               <p class="detalle">
                 <img src="images/recursos/down.png" alt="The Wedding board"> Detalles
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Editar
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-trash-o" aria-hidden="true"></i> Borrar
@@ -103,21 +103,21 @@
           </p>
         </div>
         <div class="col-md-4 col-xs-12">
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="detalle-invitacion.php">
               <p class="detalle">
                 <img src="images/recursos/down.png" alt="The Wedding board"> Detalles
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Editar
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-trash-o" aria-hidden="true"></i> Borrar
@@ -149,21 +149,21 @@
           </p>
         </div>
         <div class="col-md-4 col-xs-12">
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="detalle-invitacion.php">
               <p class="detalle">
                 <img src="images/recursos/down.png" alt="The Wedding board"> Detalles
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Editar
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-trash-o" aria-hidden="true"></i> Borrar
@@ -195,21 +195,21 @@
           </p>
         </div>
         <div class="col-md-4 col-xs-12">
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="detalle-invitacion.php">
               <p class="detalle">
                 <img src="images/recursos/down.png" alt="The Wedding board"> Detalles
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Editar
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-trash-o" aria-hidden="true"></i> Borrar
@@ -241,21 +241,21 @@
           </p>
         </div>
         <div class="col-md-4 col-xs-12">
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="detalle-invitacion.php">
               <p class="detalle">
                 <img src="images/recursos/down.png" alt="The Wedding board"> Detalles
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Editar
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-trash-o" aria-hidden="true"></i> Borrar
@@ -287,21 +287,21 @@
           </p>
         </div>
         <div class="col-md-4 col-xs-12">
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="detalle-invitacion.php">
               <p class="detalle">
                 <img src="images/recursos/down.png" alt="The Wedding board"> Detalles
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Editar
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-trash-o" aria-hidden="true"></i> Borrar
@@ -317,7 +317,7 @@
             Mónica Galindo
           </p>
         </div>
-        <div class="col-md-2 col-xs-3">
+        <div class="col-md-2 col-xs-2 col-sm-2">
           <p>
             Familia
           </p>
@@ -329,27 +329,27 @@
             </p>
           </a>
         </div>
-        <div class="col-md-2 col-xs-3">
+        <div class="col-md-2 col-xs-3 inv-centrar margin-int">
           <p>
             ?
           </p>
         </div>
         <div class="col-md-4 col-xs-12">
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="detalle-invitacion.php">
               <p class="detalle">
                 <img src="images/recursos/down.png" alt="The Wedding board"> Detalles
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Editar
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 margin-no">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-trash-o" aria-hidden="true"></i> Borrar
