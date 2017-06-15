@@ -13,22 +13,22 @@
         <img src="images/recursos/linea-greca.png" alt="The Wedding Board">
       </div>
       <div class="col-md-12 propietario">
-        <div class="col-md-2">
+        <div class="col-sm-3 col-md-2">
           <p>
             propietario
           </p>
         </div>
-        <div class="col-md-2">
+        <div class="col-sm-3 col-md-2">
           <p>
             Lista de inivtados
           </p>
         </div>
-        <div class="col-md-2">
+        <div class="col-sm-3 col-md-2">
           <p>
             # de invitados
           </p>
         </div>
-        <div class="col-md-2">
+        <div class="col-sm-3 col-md-2">
           <p>
             confirmaciones
           </p>

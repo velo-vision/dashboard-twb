@@ -13,7 +13,7 @@
         <img src="images/recursos/linea-greca.png" alt="The Wedding Board">
       </div>
       <!---->
-      <div class="col-md-12 col-xs-12 top-50">
+      <div class="col-md-12 col-lg-12 top-50">
         <div class="col-md-3 margin-cat">
           <div class="dropdown boton-categoria2">
             <button class="btn btn-secondary dropdown-toggle btn btn-default btn-sm boton-licitacion" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -66,16 +66,16 @@
       <div class="col-md-12 col-xs-12 dotted-down">
         <div class="col-md-1 col-xs-1 centers">
           <div class="form-check">
-            <label class="form-check-label">
+            <label class="form-check-label check-left" style="margin-top: 7px;">
               <input type="checkbox" class="form-check-input">
             </label>
           </div>
         </div>
         <div class="col-md-2 col-xs-4 nomargin">
-          <input class="form-control no-border centrar1" type="text" value="Licitación 01" id="example-text-input">
+          <input class="form-control no-border centrar1 cen" type="text" value="Licitación 01" id="example-text-input">
         </div>
         <div class="col-md-2 col-xs-3 nomargin centrar1">
-          <p class="top-5"><strong>Categoría:</strong> Lorem Ipsum</p>
+          <p class="top-5" style="margin-left:-35px;"><strong>Categoría:</strong> Lorem Ipsum</p>
         </div>
         <div class="col-md-2 col-xs-3 nomargin centrar1">
           <p class="top-5"><strong>Presupuesto:</strong> $50,000.00</p>
@@ -86,7 +86,7 @@
         <div class="col-md-1 col-xs-6 nomargin centrar1">
           <p class="top-5"><strong>Respuestas:</strong> 0</p>
         </div>
-        <div class="col-md-2 col-xs-12">
+        <div class="col-md-2 style-detalle">
           <a href="licitaciones-3.php">
             <p class="detalle">
               <img src="images/recursos/down.png" alt="The Wedding board"> Detalles
