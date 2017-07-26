@@ -34,6 +34,7 @@
           </p>
         </div>
       </div>
+    
        <!---->
       <div class="col-md-12 col-xs-12 invitado">
         <div class="col-md-2 col-xs-3">
@@ -46,34 +47,35 @@
             Familia
           </p>
         </div>
-        <div class="col-md-2 col-xs-3">
-          <a  data-toggle="collapse" href="#añadir-invitados" aria-expanded="false" aria-controls="collapseExample">
-            <p class="añadir-invitados" style="margin-left:0;">
+       <div class="col-sm-2 col-md-2">
+          <a  data-toggle="collapse" href="#añadir-invitados " aria-expanded="false" aria-controls="collapseExample">
+            <p class="añadir-invitados añadir-invitados2">
               Añadir invitados
             </p>
           </a>
+
         </div>
-        <div class="col-md-2 col-xs-3">
+        <div class="col-md-2 col-xs-3 centrado">
           <p>
             ?
           </p>
         </div>
         <div class="col-md-4 col-xs-12">
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 no-padding">
             <a href="detalle-invitacion.php">
               <p class="detalle">
                 <img src="images/recursos/down.png" alt="The Wedding board"> Detalles
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 no-padding">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Editar
               </p>
             </a>
           </div>
-          <div class="col-md-4 col-xs-4">
+          <div class="col-md-4 col-xs-4 no-padding">
             <a href="#!">
               <p class="editar">
                 <i class="fa fa-trash-o" aria-hidden="true"></i> Borrar
@@ -82,6 +84,7 @@
           </div>
         </div>
       </div>
+       
       <!--COLLAPSER-->
       <div class="col-md-12 top-50 sinmargin-top">
         <div class="collapse" id="añadir-invitados">
